@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SangYunKim&reversal=false&fontColor=0080ff&textBg=false&fontSize=80&fontAlign=50&rotate=5&strokeWidth=0&fontAlignY=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SangYunKim&reversal=false&fontColor=0080ff&textBg=false&fontSize=80&fontAlign=52&rotate=0&strokeWidth=0&fontAlignY=50&animation=twinkling)
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
