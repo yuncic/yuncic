@@ -29,6 +29,6 @@
 <p align="center">
   <a href="https://blog091.tistory.com/1"><img src="https://img.shields.io/badge/Blog-FF7F00?style={plastic}&logo=Tistory&logoColor=#000000"/></a>&nbsp
   <a href="https://www.instagram.com/yun_cic/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/yun_cic/"/></a>&nbsp
-  <a href="https://korea-ksy.github.io/IntroduceYun/"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="ksy0725@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=korea.ac.kr"/></a>
 </p>
 <br>
