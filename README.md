@@ -27,9 +27,7 @@
 <h3 align="center">🪄 Blog 🪄</h3>
 
 <div align="center" style="text-align:center">
-  
-  
-  [![Velog's GitHub stats](https://blog091.tistory.com/1)](https://blog091.tistory.com/)
+  <a href="https://blog091.tistory.com/1"><img src="https://img.shields.io/badge/Blog-007396?style={plastic}&logo=Tistory&logoColor=#000000"/></a>&nbsp
   
 </div>
 
