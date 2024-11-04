@@ -4,7 +4,7 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
-<p align="center"> Not professional</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -28,6 +28,6 @@
 <p align="center">
   <a href="https://blog091.tistory.com/1"><img src="https://img.shields.io/badge/Blog-FF7F00?style={plastic}&logo=Tistory&logoColor=#000000"/></a>&nbsp
   <a href="https://www.instagram.com/yun_cic/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/yun_cic/"/></a>&nbsp
-  <a href="ksy0725@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=korea.ac.kr"/></a>
+  <a href="https://korea-ksy.github.io/IntroduceYun/"><img src="https://img.shields.io/badge/Github Pages-222222?style=flat-square&logo=GithubPages&logoColor=white"/></a>
 </p>
 <br>
