@@ -31,5 +31,5 @@
   <a href="https://yuncic.github.io/IntroduceYun/"><img src="https://img.shields.io/badge/Github Pages-222222?style=flat-square&logo=GithubPages&logoColor=white"/></a>
 </p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuncic&show_icons=true&theme=algolia" height="150px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuncic&layout=compact&langs_count=8&theme=algolia" height="200px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuncic&layout=compact&langs_count=8&theme=algolia" height="150px" />
 <br>
