@@ -30,6 +30,6 @@
   <a href="https://www.instagram.com/yun_cic/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/yun_cic/"/></a>&nbsp
   <a href="https://yuncic.github.io/IntroduceYun/"><img src="https://img.shields.io/badge/Github Pages-222222?style=flat-square&logo=GithubPages&logoColor=white"/></a>
 </p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuncic&show_icons=true&theme=algolia" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuncic&show_icons=true&theme=algolia" height="150px" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuncic&layout=compact&langs_count=8&theme=algolia" height="150px" />
 <br>
