@@ -32,6 +32,6 @@
 </p>
   <div style="display: flex; justify-content: center;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuncic&show_icons=true&theme=algolia" height="150px" style="margin-right: 20px;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuncic&layout=compact&langs_count=8&theme=algolia" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuncic&layout=compact&langs_count=8&theme=algolia" height="150px" style="margin-right: 20px;" />
 </div>
 <br>
