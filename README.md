@@ -33,7 +33,7 @@
 <br>
 <br>
 <div align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ksy0725)](https://solved.ac/ksy0725)
+   ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ksy0725)](https://solved.ac/ksy0725)
   <img src="https://github-readme-stats.vercel.app/api?username=yuncic&show_icons=true&theme=algolia" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuncic&layout=compact&langs_count=8&theme=algolia" height="150px" />
 </div>
