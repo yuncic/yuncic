@@ -32,9 +32,10 @@
 </p> 
 <br>
 <br>
-
 <div align="center">
   <a href="https://solved.ac/ksy0725/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksy0725" alt="Solved.ac Profile"></a>
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuncic&show_icons=true&theme=algolia" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuncic&layout=compact&langs_count=8&theme=algolia" height="150px" />
 </div>
