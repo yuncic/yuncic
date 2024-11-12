@@ -32,7 +32,7 @@
 </p> 
 <br>
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksy0725)](https://solved.ac/ksy0725/)
+<p><a href="https://solved.ac/ksy0725/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksy0725" alt="Solved.ac Profile"></a></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuncic&show_icons=true&theme=algolia" height="150px" />
