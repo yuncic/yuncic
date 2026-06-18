@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=dev_yun👽&reversal=false&fontColor=FFFFFF&textBg=false&fontSize=80&fontAlign=50&rotate=-3&strokeWidth=0&fontAlignY=50&animation=twinkling&descAlign=50&descAlignY=50)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
-
-<!-- <p align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
+<!-- <!-- <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
