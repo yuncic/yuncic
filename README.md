@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/TanStack_Query-160440?style=for-the-badge&logo=react-query&logoColor=red">
 </p>
 <br>
-<h3 align="center">✏️ Contribution History</h3>
+<h3 align="center">📝 Contribution History</h3>
 <p align="center">
   <a href='https://github.com/reactjs/ko.react.dev/pulls?q=is%3Apr+state%3Aclosed+author%3Ayuncic'>ko.react.dev</a>
 </p>
