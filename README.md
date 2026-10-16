@@ -8,8 +8,9 @@
   <img src="https://img.shields.io/badge/TanStack_Query-160440?style=for-the-badge&logo=react-query&logoColor=red">
 </p>
 <br>
+<h3 align="center">✏️ Contribution History</h3>
 <p align="center">
-  <a href='https://github.com/reactjs/ko.react.dev/pulls?q=is%3Apr+state%3Aclosed+author%3Ayuncic'>Contribution History</a>
+  <a href='https://github.com/reactjs/ko.react.dev/pulls?q=is%3Apr+state%3Aclosed+author%3Ayuncic'>ko.react.dev</a>
 </p>
 <div align="center">
   <a href="https://solved.ac/ksy0725/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksy0725" alt="Solved.ac Profile"></a>
