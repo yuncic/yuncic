@@ -1,19 +1,14 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Kim Sangyun | Frontend Developer" />
+# 김상윤
+
+**Frontend Developer**
+
+측정 결과를 바탕으로 문제의 원인을 좁혀 가는 프론트엔드 개발자입니다.  
+시도한 방법과 확인한 결과를 기록하고, 동료와 논의하며 끝까지 해결합니다.
+
+<p>
+  <a href="https://blog091.tistory.com/" title="개발 블로그 읽기"><img src="https://img.shields.io/badge/TECH%20BLOG-24292F?style=for-the-badge&amp;logo=tistory&amp;logoColor=FF5544" alt="개발 블로그" /></a>&nbsp;
+  <a href="mailto:ksy151020@gmail.com" title="ksy151020@gmail.com으로 이메일 보내기"><img src="https://img.shields.io/badge/EMAIL-24292F?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="이메일 보내기: ksy151020@gmail.com" /></a>
 </p>
-
-<p align="center">
-  <a href="https://blog091.tistory.com/">Blog</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:ksy151020@gmail.com">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://solved.ac/ksy0725/">Solved.ac</a>
-</p>
-
-<br />
-
-### 측정으로 원인을 좁히고, 끝까지 해결합니다.
-
-프론트엔드 개발자 **김상윤**입니다.  
-시도한 방법과 확인한 결과를 기록하고, 동료와 논의하며 더 나은 답을 찾습니다.
 
 <br />
 
@@ -72,3 +67,9 @@ LOD와 조회 범위를 함께 바꾼 초기 기록에서는 dropped frame이 11
 **Frontend** &nbsp; React · TypeScript · JavaScript · TanStack Query · Emotion  
 **Quality & Tooling** &nbsp; Zod · Jest · Sentry · Webpack · pnpm  
 **Automation** &nbsp; Python · pandas · Selenium · BeautifulSoup
+
+<br />
+
+## Problem Solving
+
+<a href="https://solved.ac/ksy0725/"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ksy0725" alt="Solved.ac Profile · ksy0725" /></a>
