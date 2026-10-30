@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Kim Sangyun, Frontend Developer. Measure carefully. Build thoughtfully.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101C35"/><stop offset="1" stop-color="#172F51"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78B4FF"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8BB8F0" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="280" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="20" fill="url(#grid)"/>
+  <rect x="56" y="53" width="28" height="4" rx="2" fill="#78B4FF"/>
+  <text x="98" y="60" fill="#99C5FF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3">FRONTEND DEVELOPER</text>
+  <text x="54" y="139" fill="#F5F8FF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="62" font-weight="750" letter-spacing="-2">Kim Sangyun<tspan fill="#78B4FF">.</tspan></text>
+  <text x="58" y="188" fill="#B9C9E1" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="22">Measure carefully. Build thoughtfully.</text>
+  <text x="58" y="236" fill="#8199BB" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">REACT / TYPESCRIPT / WEB PERFORMANCE</text>
+  <circle cx="1025" cy="140" r="91" fill="none" stroke="#77ABEF" stroke-opacity=".16"/>
+  <circle cx="1025" cy="140" r="66" fill="none" stroke="#77ABEF" stroke-opacity=".12"/>
+  <rect x="958" y="76" width="130" height="130" rx="28" fill="url(#blue)" transform="rotate(-10 1023 141)"/>
+  <path d="m1003 117-22 23 22 23m42-46 22 23-22 23m-16-55-13 64" stroke="#F5F9FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="1114" cy="65" r="7" fill="#7AB8FF"/>
+  <circle cx="930" cy="213" r="4" fill="#7AB8FF" fill-opacity=".6"/>
+</svg>
