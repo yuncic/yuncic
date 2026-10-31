@@ -43,12 +43,15 @@ LOD와 조회 범위를 함께 바꾼 초기 기록에서는 dropped frame이 11
 ### 우아한테크코스 · Web Frontend 8기
 <sub>2026.02 ~ 2026.11</sub>
 
+[활동 아카이브](https://github.com/yuncic/woowacourse-archive) 
 - 5번의 페어 프로그래밍과 현직자 코드 리뷰로 컴포넌트·훅의 책임과 추상화 범위를 다듬었습니다.
 - 이미지·번들을 최적화하고 Lighthouse·LCP로 전후 결과를 확인했습니다.
 - SDD로 진행한 MVP 개발 경험을 테코톡에서 발표했습니다.
 
 ### 크몽 · 데이터 수집 자동화 서비스 개발·운영
 <sub>2022.06 ~ 2022.11 · Python · JavaScript · pandas · Selenium · BeautifulSoup</sub>
+
+[서비스 주소](https://kmong.com/gig/368592)
 
 - 인스타그램 팔로워·유튜브 등 **데이터 수집 자동화 4건을 유료 납품**했습니다.
 - 고객과 요구사항·작업 범위를 직접 조율하고, 약속한 기한 내 결과물을 전달했습니다.
